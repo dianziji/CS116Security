@@ -1,0 +1,3 @@
+bluebear:$6$XcMHMb9zwWQ5AQuE$i1E3VYIf8KuRLUxQA1eWGPmgWOTlsReLZtwHbmpz/Hbp3zIxyR8nARhZXwfkXHhEnrrmKoaJA4kmACk0RNrRI/:1009:1009:,,,:/home/bluebear:/bin/bash
+blackbear:$6$ObRBq.7idqguqcq8$kVHv6VTxsIH/FHlCLemyyr/YDpYPg262x9p.xgKEdZXDehxzmZv3DnYKdlFnFg2T66YflMLasmhXmxkaZpXBz.:1011:1011:,,,:/home/blackbear:/bin/bash
+pandabear:$6$jgC0GUdU1ZdhLG7D$fzQYiBeZK3xapOF/PXqks62Op3Q2.fEbxQSfIerx6a3sPcj4TW5OQ2VdRa.83ilfELMqhXaghjMf23d/UYh9Q.:1014:1014:,,,:/home/pandabear:/bin/bash

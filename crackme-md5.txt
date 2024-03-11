@@ -1,0 +1,2 @@
+sisterbear:$1$.hnet9VI$gpizSxPrpDhWwCJCKggXF0:1005:1005:,,,:/home/sisterbear:/bin/bash
+brotherbear:$1$TAQgSLW0$3YhU40/nln.VqwvdBUMd81:1007:1007:,,,:/home/brotherbear:/bin/bash
